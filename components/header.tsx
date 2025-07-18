@@ -7,8 +7,8 @@ const Header = () => {
     <header className='py-6'>
         <Box>
             <HeadingText
-            title={'TaskPro'}
-            description={'Ranked number one website to manage your personal task'}
+            title={'Gestion basica de Tareas'}
+            description={'"Organiza tus tareas pendientes"'}
             />
         </Box>
     </header>
